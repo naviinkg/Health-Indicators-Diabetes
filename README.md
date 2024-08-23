@@ -45,7 +45,7 @@ The model's performance indicates that it can be used for initial health screeni
 ## Conclusion
 The project successfully demonstrates the application of machine learning in predicting health outcomes based on key indicators. Future work could involve expanding the dataset, experimenting with deep learning models, and integrating the model into a real-world application.
 
-##Future Work
+## Future Work
 Explore the use of deep learning models for potentially better performance.
 Expand the dataset to include more diverse and comprehensive health indicators.
 Develop a web-based application for real-time health prediction.
